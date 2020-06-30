@@ -14,6 +14,6 @@ This map shows an example of personalized results where the customer chose hotte
 ![alt text](https://github.com/elenaguilarv/World_Weather_Analysis/blob/master/WeatherPy_travel_map_markers.PNG)
 
 ### Travel Itinerary 
-The map displays a route created between three cities in Brazil (by vehicle) for a customer narrowing down their vacation plans. 
+The map displays a route created between four cities in Brazil (by vehicle) for a customer narrowing down their vacation plans and destinations. 
 
 ![alt text](https://github.com/elenaguilarv/World_Weather_Analysis/blob/master/WeatherPy_travel_map.PNG)
